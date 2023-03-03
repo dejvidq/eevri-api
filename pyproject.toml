@@ -49,5 +49,6 @@ python_version = 3.8
 exclude = [
     'virtual_env',
 	'venv',
-	'setup.py'
+	'setup.py',
+	'src/eevri/aa\.py'
 ]

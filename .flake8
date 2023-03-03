@@ -4,5 +4,6 @@ import-order-style = pep8
 application-file-names = eevri
 exclude =
     src/eevri/__init__.py
+    src/eevri/aa.py
 per-file-ignores =
     src/eevri/models.py: A003
